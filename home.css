@@ -6,7 +6,18 @@ h5{
  color: purple;
  font-family: 'Oswald', ;
 }
-
+h1{
+text-align: center;
+}
+h5{
+text-align: center; 
+}
+h1{
+font-size: 200px;
+}
+h5{
+font-size: 100;
+}
 ul{
   list-style-type:none;
 }
