@@ -1,11 +1,12 @@
 h1{ 
 color: black;
- font-family: 'Roboto Slab', ;
+font-family: 'Oswald', ;
 }
 h5{
  color: purple;
-  font-family: 'Roboto Slab', ;
+ font-family: 'Oswald', ;
 }
+
 ul{
   list-style-type:none;
 }
