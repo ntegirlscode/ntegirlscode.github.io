@@ -41,3 +41,10 @@ a:hover{
 #title2{
 font-size:2em;
 }
+#background{
+  height:300px;
+  background-color:Purple;
+  background-image: url("data:image/jpg;");
+    background-repeat:no-repeat;
+  background-size:cover;
+}
