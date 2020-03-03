@@ -1,23 +1,16 @@
 h1{ 
 color: black;
 font-family: 'Oswald', ;
+ text-align: center;
+ font-size: 100px;
 }
 h5{
  color: purple;
  font-family: 'Oswald', ;
+ text-align: center; 
+ font-size: 90px;
 }
-h1{
-text-align: center;
-}
-h5{
-text-align: center; 
-}
-h1{
-font-size: 100px;
-}
-h5{
-font-size: 100;
-}
+
 ul{
   list-style-type:none;
 }
