@@ -34,10 +34,12 @@ a:hover{
 #title2{
 font-size:2em;
 }
+
+/*This below should be body{} not background{}*/
 background{
   height:300px;
   background-color:Purple;
-  background-image: url("data:image/jpg;");
+  background-image: url("data:image/jpg;");/*you only need this if you are using a background image*/
     background-repeat:no-repeat;
   background-size:cover;
 }
